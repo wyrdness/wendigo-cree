@@ -1,0 +1,215 @@
+{
+  "category": "ENTITY_SPIRIT/DEMON_ANGEL",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/wendigo-cree",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    },
+    "cultural_sensitivity": {
+      "alert": "CRITICAL",
+      "notice": "This is SACRED Cree/Algonquian spiritual teaching, NOT entertainment. Approach with utmost respect. Consult Indigenous knowledge keepers and communities.",
+      "guidelines": [
+        "Do not trivialize or use for entertainment purposes",
+        "Understand sacred context and spiritual significance",
+        "Listen to and center Indigenous voices",
+        "Recognize ongoing harm from appropriation",
+        "This is cultural teaching about survival ethics and community values"
+      ]
+    }
+  },
+
+  "phenomenon": {
+    "id": "wendigo-cree",
+    "name": "Wendigo (Cree)",
+    "aliases": [
+      {
+        "name": "Wetiko",
+        "language": "Cree",
+        "notes": "Alternative transliteration"
+      },
+      {
+        "name": "Wìhtikòw",
+        "language": "Cree",
+        "notes": "Cree syllabics variant"
+      }
+    ],
+    "category": "ENTITY_SPIRIT/DEMON_ANGEL",
+    "subcategory": "Sacred Spiritual Being",
+    "tags": [
+      "sacred",
+      "algonquian",
+      "cree",
+      "spiritual-teaching",
+      "cannibalism-taboo",
+      "greed-warning",
+      "transformation",
+      "cultural-sensitivity-critical"
+    ],
+    "status": "active_sacred_tradition",
+    "description": {
+      "summary": "Sacred Cree spiritual being embodying cannibalism, greed, and loss of humanity. Central teaching about community survival, rejecting greed, and maintaining cultural values. NOT entertainment - active sacred tradition requiring deep respect.",
+      "full": "The Wendigo in Cree tradition is a sacred spiritual being that embodies the ultimate transgression: cannibalism and the greed that drives it. Described as gaunt, skeletal, associated with ice and cold, with insatiable hunger that grows with each victim, the Wendigo represents the transformation that occurs when humans lose their humanity through greed or cannibalism. This is not a monster story but a profound spiritual teaching about survival ethics, the cannibalism taboo, community interdependence, and the dangers of placing individual desires above collective wellbeing. The concept has been severely appropriated and misused in horror media, causing ongoing harm to Indigenous communities. Understanding the Wendigo requires centering Cree and Algonquian voices and recognizing this as living sacred knowledge, not entertainment."
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "ENTITY_SPIRIT/DEMON_ANGEL",
+      "type": "Sacred Spiritual Being",
+      "subtype": "Transformation Spirit",
+      "variant": "Cree/Algonquian"
+    },
+    "related_phenomena": [
+      {
+        "id": "windigo",
+        "name": "Windigo (Ojibwe)",
+        "relationship": "regional_variant",
+        "description": "Ojibwe variant with similar sacred significance"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "appearance": "Gaunt, skeletal figure; ice and cold associated; grows larger with each victim consumed",
+      "features": [
+        {
+          "feature": "Emaciated appearance",
+          "description": "Skeletal, starving despite constant eating",
+          "frequency": "always",
+          "significance": "Represents insatiable greed"
+        },
+        {
+          "feature": "Ice/cold association",
+          "description": "Brings cold, winter; frozen heart symbolism",
+          "frequency": "common",
+          "significance": "Loss of human warmth and compassion"
+        },
+        {
+          "feature": "Grows with consumption",
+          "description": "Becomes larger with each victim, never satisfied",
+          "frequency": "common",
+          "significance": "Endless nature of greed"
+        }
+      ],
+      "morphology": "Transformed human - no longer human but monstrous embodiment of greed"
+    },
+    "spiritual_nature": {
+      "meaning": "Embodiment of cannibalism, greed, and loss of humanity",
+      "teaching": "Warning against placing individual survival/desire above community; ultimate taboo violation",
+      "transformation": "Humans who resort to cannibalism or are possessed by extreme greed become Wendigo",
+      "symbolism": [
+        "Cannibalism taboo",
+        "Greed and selfishness",
+        "Loss of humanity",
+        "Winter starvation",
+        "Individual vs. community"
+      ]
+    },
+    "behavior": {
+      "nature": "Insatiable hunger, never satisfied regardless of consumption",
+      "transformation_triggers": [
+        "Committing cannibalism",
+        "Extreme greed and selfishness",
+        "Spirit possession",
+        "Violation of community values"
+      ],
+      "prevention": [
+        "Community vigilance and sharing",
+        "Rejecting greed and selfishness",
+        "Maintaining cultural values",
+        "Choosing community over individual gain"
+      ]
+    }
+  },
+
+  "cultural_context": {
+    "sacred_teaching": {
+      "purpose": "Survival teaching for harsh winters and resource scarcity",
+      "lessons": [
+        "Cannibalism is absolute taboo",
+        "Greed destroys community and self",
+        "Community survival depends on sharing and cooperation",
+        "Individual must be willing to sacrifice for collective",
+        "Loss of humanity is spiritual death"
+      ],
+      "context": "Developed in context of severe winters, periodic starvation, need for community cooperation"
+    },
+    "historical_context": {
+      "wendigo_psychosis": {
+        "description": "Historical psychological condition (debated by scholars) involving compulsion toward cannibalism",
+        "notes": "Colonial-era term; modern scholars debate whether this was actual condition or colonial misinterpretation of cultural teachings",
+        "community_response": "Traditional execution of those believed transformed was documented historically"
+      }
+    },
+    "modern_misuse": {
+      "appropriation": "Severely appropriated in horror media, video games, and entertainment",
+      "harm": "Trivializes sacred teaching; disconnects from cultural meaning; perpetuates stereotypes",
+      "ongoing_impact": "Indigenous communities continue to speak out against disrespectful use"
+    }
+  },
+
+  "respect_guidelines": {
+    "critical_points": [
+      "This is SACRED TEACHING, not entertainment",
+      "Center Cree and Algonquian voices - they are the knowledge keepers",
+      "Do not use in horror entertainment or trivialize",
+      "Understand historical and cultural context",
+      "Recognize ongoing harm from appropriation",
+      "This represents living spiritual tradition",
+      "Approach with same respect as any religious teaching"
+    ],
+    "when_discussing": [
+      "Acknowledge sacred nature explicitly",
+      "Cite Indigenous scholars and knowledge keepers",
+      "Explain cultural context and teaching purpose",
+      "Do not sensationalize or create 'monster' narrative",
+      "Recognize your own position and limitations",
+      "Defer to Indigenous community guidance"
+    ]
+  },
+
+  "indigenous_voices": {
+    "note": "The following represents published Indigenous scholarship. For full understanding, consult Cree knowledge keepers and communities directly.",
+    "key_points": [
+      "Wendigo teaching is about community survival and ethics",
+      "Horror appropriation causes real harm to Indigenous communities",
+      "Understanding requires cultural context, not Western 'monster' framework",
+      "This is active spiritual tradition, not historical curiosity",
+      "Non-Indigenous people should listen, not reinterpret"
+    ]
+  },
+
+  "sources": [
+    {
+      "id": "brightman-1988",
+      "type": "academic",
+      "title": "The Windigo in the Material World",
+      "authors": ["Robert Brightman"],
+      "publication": "Ethnohistory",
+      "date": "1988",
+      "notes": "Academic analysis of Wendigo beliefs and wendigo psychosis"
+    },
+    {
+      "id": "smallman-2014",
+      "type": "academic",
+      "title": "Dangerous Spirits: The Windigo in Myth and History",
+      "authors": ["Shawn Smallman"],
+      "publication": "Heritage House Publishing",
+      "date": "2014",
+      "isbn": "978-1927527733"
+    }
+  ]
+}
